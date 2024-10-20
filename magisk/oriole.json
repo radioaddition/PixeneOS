@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2024101200/oriole-2024101200-magisk-28001-31ecca2.zip",
-    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2024101200/oriole-2024101200-magisk-28001-31ecca2.zip.csig"
+    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2024101900/oriole-2024101900-magisk-28001-6fe562f.zip",
+    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2024101900/oriole-2024101900-magisk-28001-6fe562f.zip.csig"
   }
 }
