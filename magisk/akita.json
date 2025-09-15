@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/pixincreate/PixeneOS/releases/download/2025091000/akita-2025091000-magisk-30200-a10dd28.zip",
-    "location_csig": "https://github.com/pixincreate/PixeneOS/releases/download/2025091000/akita-2025091000-magisk-30200-a10dd28.zip.csig"
+    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2025091000/akita-2025091000-magisk-30200-baeb4c5.zip",
+    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2025091000/akita-2025091000-magisk-30200-baeb4c5.zip.csig"
   }
 }
