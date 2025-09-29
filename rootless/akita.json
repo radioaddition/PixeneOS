@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2025091900/akita-2025091900-rootless-ef0b485.zip",
-    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2025091900/akita-2025091900-rootless-ef0b485.zip.csig"
+    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2025092700/akita-2025092700-rootless-ef0b485.zip",
+    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2025092700/akita-2025092700-rootless-ef0b485.zip.csig"
   }
 }
