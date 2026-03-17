@@ -127,7 +127,7 @@ jobs:
 
             if [ ${#missing_assets[@]} -eq 0 ]; then
               echo -e "::error::All required assets are present. Exiting..."
-              exit 0
+              exit 1
             else
               echo -e "Missing assets:"
               for missing_asset in "${missing_assets[@]}"; do
@@ -148,7 +148,7 @@ jobs:
                 echo -e "Proceeding with build to create missing assets..."
               else
                 echo -e "::error::Asset with \`$build_flavor\` flavor already exists!"
-                exit 0
+                exit 1
               fi
             fi
           else
