@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2026040800/oriole-2026040800-rootless-ab07912.zip",
+    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2026040800/oriole-2026040800-rootless-ab07912.zip.csig"
+  }
+}
