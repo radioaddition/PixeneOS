@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2026050900/lynx-2026050900-rootless-c3d1f1e.zip",
-    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2026050900/lynx-2026050900-rootless-c3d1f1e.zip.csig"
+    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2026052400/lynx-2026052400-rootless-c3d1f1e.zip",
+    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2026052400/lynx-2026052400-rootless-c3d1f1e.zip.csig"
   }
 }
