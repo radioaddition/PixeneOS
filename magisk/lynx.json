@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "full": {
-    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2026032000/lynx-2026032000-magisk-v30.7-5d9a2fb.zip",
-    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2026032000/lynx-2026032000-magisk-v30.7-5d9a2fb.zip.csig"
-  }
-}

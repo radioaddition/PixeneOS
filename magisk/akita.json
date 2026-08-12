@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "full": {
-    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2026030700/akita-2026030700-magisk-v30.7-8605a30.zip",
-    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2026030700/akita-2026030700-magisk-v30.7-8605a30.zip.csig"
-  }
-}
