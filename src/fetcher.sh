@@ -12,6 +12,7 @@ function get_latest_version() {
       awk -F'\t' '{print $2}' |
       grep -E 'refs/tags/' |
       sed 's/refs\/tags\///' |
+      sed 's/\^\{\}//' |
       sort -V |
       tail -n1
   )
