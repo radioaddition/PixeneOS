@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2026111300/comet-2026111300-rootless-7a02e7d.zip",
-    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2026111300/comet-2026111300-rootless-7a02e7d.zip.csig"
+    "location_ota": "https://github.com/radioaddition/PixeneOS/releases/download/2026111800/comet-2026111800-rootless-7a02e7d.zip",
+    "location_csig": "https://github.com/radioaddition/PixeneOS/releases/download/2026111800/comet-2026111800-rootless-7a02e7d.zip.csig"
   }
 }
